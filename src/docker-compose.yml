@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  pa:
+    image: hannahleee/pa5
+    ports:
+      - "5000:5000"
